@@ -1,4 +1,5 @@
 # Calculator
+![image](https://github.com/user-attachments/assets/43a7aca3-7985-4e5e-89f9-c74f5ea04072)
 
 ### Documentation 
 
